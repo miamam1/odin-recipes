@@ -1,0 +1,19 @@
+* {
+    background: red;
+}
+
+li {
+    color: white;
+    font-weight: bold;
+    text-align: right;
+
+}
+ol {
+   color: yellow; 
+}
+
+img {
+    height: 23px;
+    width: 23px;
+}
+
